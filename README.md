@@ -17,6 +17,10 @@ I am a **Software Developer** passionate about creating innovative solutions in 
 1. 🗣️ **Speech Correction System**: A tool for improving pronunciation.
 2. 📈 **Employee Evaluation System**: Software for assessing company staff.
 3. 🤖 **Company Automation**: Streamlined a company's internal processes through automation.
+4. 💬 **RAG AI Chat (Gemma2)**: An advanced AI chat system supporting Arabic data.
+5. 🌍 **Syrian Towns Database**: A comprehensive database containing all towns in Syria.
+6. 📊 **CSV Handler with DB Normalization**: A system for handling CSV files and normalizing them into databases.
+7. 🛡️ **Gender Detection by Security Camera**: An AI-powered system for detecting gender using security cameras.
 
 ## 🎨 Hobbies
 - 📸 **Photography**: Capturing moments and editing photos to tell stories.
