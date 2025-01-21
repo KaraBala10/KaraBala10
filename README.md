@@ -9,8 +9,8 @@ I am a **Software Developer** passionate about creating innovative solutions in 
 - 🧑‍🏫 **Teaching**: I teach programming to individuals preparing to enter the job market.
 
 ## 🔧 Skills & Technologies
-- **Languages & Frameworks**: Python, Django, Flask, React, JavaScript, HTML, CSS, Ansible.
-- **Tools**: Docker, VSCode, Git.
+- **Languages & Frameworks**: Python, Django, Flask, React, JavaScript, HTML, CSS.
+- **Tools**: Docker, VSCode, Git, Ansible.
 - **Passions**: Artificial Intelligence 🤖 and Automation ⚙️.
 
 ## 🌟 Notable Projects
