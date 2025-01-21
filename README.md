@@ -9,6 +9,9 @@ I am a **Software Developer** passionate about creating innovative solutions in 
 - 🧑‍🏫 **Teaching**: I teach programming to individuals preparing to enter the job market.
 
 ## 🔧 Skills & Technologies
+- **Operating Systems**: Linux (Ubuntu), Bash Scripting
+- **Server Management**: Working with servers, deploying applications, and maintaining production environments
+- **Operating Systems**: Linux (Ubuntu), Bash Scripting
 - **Languages & Frameworks**: Python, Django, Flask, React, JavaScript, HTML, CSS.
 - **Tools**: Docker, VSCode, Git, Ansible.
 - **Passions**: Artificial Intelligence 🤖 and Automation ⚙️.
